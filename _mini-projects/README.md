@@ -5,4 +5,4 @@ https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blo
 -->
 
 View notebook online
-* 1A: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/_mini-projects/1A-car-sales-predictions.html
+* 1A: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/_mini-projects/1A-sales-prediction/1A-car-sales-predictions.html
