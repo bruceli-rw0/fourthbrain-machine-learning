@@ -7,7 +7,7 @@ https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blo
 ### View notebook online
 0. Mini Project
    - 1A Car Sales Prediction: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/_mini-projects/1A-sales-prediction/1A-car-sales-predictions.html
-   - 1B Walmart labs inventory: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/_mini-projects/1B-walmart-inventory/Walmart-labs-inventory.html
+   - 1B Walmart labs inventory: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/_mini-projects/1B-walmart-inventory/1B-Walmart-labs-inventory.html
 1. Supervised - Regression
     - Gradient Descent for Housing Price: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/1-supervised-reg/1-multivariate-linear-reg.html
     - Covid-19 Predictions: https://nbviewer.jupyter.org/github/bruceli-rw0/fourthbrain-machine-learning/blob/master/1-supervised-reg/2-covid-predictions-for-Chicago.html
